@@ -18,4 +18,4 @@ El objetivo es comprender y aplicar los conceptos matemáticos en un entorno com
 ### Links de interés:
 
 🔗 **[Trabajo Práctico en GitHub](https://github.com/Nikolash4480/Trabajo-Integrador-Programacion-I/tree/main/Carpeta_Digital)**  
-📹 **[Video en Google Drive](none)**
+📹 **[Video en Google Drive](https://drive.google.com/file/d/1tdqscq-JCLAsnNOegAHMgCVXOokIa_5Z/view?usp=sharing)**
