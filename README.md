@@ -10,8 +10,10 @@
 ## [TEMA ELEGIDO]  
 **Busqueda y Ordenamiento**
 
+Este proyecto es un trabajo práctico que fusiona Matemática y Programación, demostrando cómo conceptos abstractos (conjuntos, lógica proposicional, relaciones binarias) pueden aplicarse en Python, dividiéndose en una fase teórica y otra de codificación.
+
 ## [OBJETIVOS DEL PROYECTO]  
-Este trabajo surge de una necesidad concreta: entender cómo mejorar la eficiencia de nuestras aplicaciones mediante el uso correcto de algoritmos. En una era donde se generan miles de millones de datos por minuto, saber cómo buscarlos y ordenarlos de manera eficaz es indispensable.
+El objetivo es comprender y aplicar los conceptos matemáticos en un entorno computacional, trasladando la teoría a código Python mediante estructuras como listas, conjuntos, condicionales y funciones, combinando análisis, razonamiento lógico y programación en el proceso.
 
 ### Links de interés:
 
